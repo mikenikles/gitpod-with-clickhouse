@@ -1,0 +1,6 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - command: echo "Welcome. Use this terminal to run your commands."
+  - command: cd ./clickhouse && clickhouse-server

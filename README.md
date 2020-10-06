@@ -11,3 +11,8 @@ The [HTTP interface](https://clickhouse.tech/docs/en/interfaces/http/) is availa
 ```bash
 curl 'http://localhost:8123/'
 ```
+
+## Gitpod discount
+
+[Gitpod.io](https://gitpod.io/) is free to use for 50 hours / month. If you want more, you can
+use my coupon code `mikenikles` to get 30% off for the firts three months.

@@ -15,4 +15,4 @@ curl 'http://localhost:8123/'
 ## Gitpod discount
 
 [Gitpod.io](https://gitpod.io/) is free to use for 50 hours / month. If you want more, you can
-use my coupon code `mikenikles` to get 30% off for the firts three months.
+use my coupon code `mikenikles` to get 30% off for the first three months.
